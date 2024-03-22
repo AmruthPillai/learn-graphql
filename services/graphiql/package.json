@@ -77,7 +77,7 @@
   },
   "devDependencies": {
     "babel-core": "6.26.3",
-    "babel-eslint": "8.2.6",
+    "babel-eslint": "10.1.0",
     "babel-loader": "7.1.5",
     "babel-plugin-istanbul": "4.1.6",
     "babel-plugin-react-transform": "3.0.0",
@@ -115,8 +115,8 @@
     "less-loader": "4.1.0",
     "lint-staged": "6.1.1",
     "mini-css-extract-plugin": "0.4.5",
-    "node-sass": "4.13.1",
-    "nyc": "12.0.2",
+    "node-sass": "9.0.0",
+    "nyc": "15.1.0",
     "optimize-css-assets-webpack-plugin": "4.0.3",
     "react-a11y": "0.2.8",
     "react-addons-test-utils": "15.6.2",
@@ -134,7 +134,7 @@
     "url-loader": "1.1.2",
     "webpack": "4.27.1",
     "webpack-cli": "3.1.2",
-    "webpack-dev-middleware": "3.4.0",
+    "webpack-dev-middleware": "5.3.4",
     "webpack-hot-middleware": "2.24.3",
     "webpack-isomorphic-tools": "3.0.6"
   },
