@@ -12,7 +12,7 @@
     "apollo-client": "2.6.10",
     "apollo-link-http": "1.5.17",
     "apollo-link-ws": "1.0.20",
-    "express": "4.17.1",
+    "express": "4.19.2",
     "graphql": "14.5.8",
     "morgan": "1.9.1",
     "subscriptions-transport-ws": "0.9.16",
@@ -21,7 +21,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "3.11.0",
     "@vue/cli-plugin-eslint": "3.11.0",
-    "@vue/cli-service": "3.11.0",
+    "@vue/cli-service": "5.0.8",
     "@vue/eslint-config-prettier": "5.1.0",
     "auth0-js": "9.13.2",
     "babel-eslint": "10.1.0",
